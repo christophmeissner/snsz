@@ -126,7 +126,7 @@ queuelib==1.6.2
     # via scrapy
 regex==2021.11.10
     # via dateparser
-requests==2.26.0
+requests==2.31.0
     # via
     #   requests-oauthlib
     #   tweepy
@@ -172,7 +172,7 @@ w3lib==1.22.0
     #   scrapy
 wheel==0.37.0
     # via pip-tools
-zope.interface==5.4.0
+zope-interface==5.4.0
     # via
     #   scrapy
     #   twisted
